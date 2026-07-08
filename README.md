@@ -4,7 +4,7 @@
 
 Here is a brief introduction to this website.
 
-进入中文介绍：[请点击此处](READMEzh-CN.md)。
+进入中文介绍：[请点击此处](README.zh-CN.md)。
 
 ## Overview
 
