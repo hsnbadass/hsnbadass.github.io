@@ -1,5 +1,7 @@
 # Badass's Page
+
 > 这是 Badass 的文档网站，托管于 GitHub，构建自Docusaurus。
+
 以下是该网站的简明介绍。
 
 ## 概览
